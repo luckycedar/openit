@@ -43,7 +43,7 @@ if __name__ == '__main__':
             filenames = list()
             filenames = data[current_date]
         except KeyError:
-            print("Error: changfengoos/pub库里没有Clash配置文件可以嫖")
+            print("Failed: changfengoos/pub库里没有Clash配置文件可以嫖")
         else:
             print("Success: changfengoos/pub库里有" + str(tfiles) + "个Clash配置文件可以嫖")
 
