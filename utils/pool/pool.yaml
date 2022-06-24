@@ -561,7 +561,572 @@ proxy-groups:
   - name: 🌐 Proxy
     type: select
     proxies:
+      - 💡 Auto
       - DIRECT
+      - AA↑↑以上线路和我不可用↑↑
+      - AZHK白嫖节点丨0.1x
+      - CZ 1｜openit.ml
+      - CZ 2｜openit.ml
+      - UA 1｜openit.ml
+      - UA 2｜openit.ml
+      - UA 3｜openit.ml
+      - UA 4｜openit.ml
+      - Z网址 origincloud01.xyz | 这不是节点请切换其他
+      - vpnpool-BR
+      - vpnpool-TR
+      - 售后群:659112510
+      - 网易云音乐|解锁节点1 - Windows, Android
+      - 网易云音乐|解锁节点2 - macOS, iOS, Linux
+      - 美西A
+      - 美西B
+      - 🇦🇷 Anycast|阿根廷
+      - 🇦🇷 V2-阿根廷01 CDN 中继 龟速2x
+      - 🇦🇺 AU 1｜openit.ml
+      - 🇦🇺 Anycast|澳大利亚
+      - 🇦🇺 V3-IEPL专线 澳洲01 | 7x
+      - 🇦🇺 澳大利亚 IEPL 01
+      - 🇧🇷 Anycast|巴西
+      - 🇧🇷 V2-巴西01 中继A
+      - 🇧🇷 V2-巴西01 中继B
+      - 🇧🇷 V2-巴西01 中继C
+      - 🇧🇷 V2-巴西01 中继D
+      - 🇧🇷 V2-巴西01 中继E
+      - 🇨🇦 Anycast|加拿大
+      - 🇨🇦 中转|加拿大01
+      - 🇨🇳 Anycast|台湾
+      - 🇨🇳 B台湾01|Netflix|V2|GZ
+      - 🇨🇳 B台湾01|Twitter|V1|GZ
+      - 🇨🇳 B台湾02|流媒体|V1|GZ
+      - 🇨🇳 B台湾03|流媒体|V1|GZ
+      - 🇨🇳 B台湾04|Youtube|V1|GZ
+      - 🇨🇳 CN 1｜openit.ml
+      - 🇨🇳 CN 2｜openit.ml
+      - 🇨🇳 CN 3｜openit.ml
+      - 🇨🇳 CN 4｜openit.ml
+      - 🇨🇳 CN 5｜openit.ml
+      - 🇨🇳 CN 6｜openit.ml
+      - 🇨🇳 EXTM3U-台北Hinet-dip
+      - 🇨🇳 EXTM3U-台北Hinet-dip 2
+      - 🇨🇳 EXTM3U-花莲Hinet-dip
+      - 🇨🇳 EXTM3U-高雄Hinet-dip
+      - 🇨🇳 Standard|广台|IEPL|01
+      - 🇨🇳 Standard|广台|IEPL|02
+      - 🇨🇳 Standard|广台|IEPL|03
+      - 🇨🇳 Standard|广台|IEPL|04
+      - 🇨🇳 Standard|广台|IEPL|05
+      - 🇨🇳 Standard|广台|IEPL|06
+      - 🇨🇳 TW PRO 01 | Media
+      - 🇨🇳 TW PRO 02 | Media
+      - 🇨🇳 TW PRO 03 | Media
+      - 🇨🇳 TW PRO 04 | Media
+      - 🇨🇳 V1-台湾 多台负载均衡 中继A 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继B 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继C 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继D 1.5x
+      - 🇨🇳 V1-台湾 多台负载均衡 中继F 1.5x
+      - 🇨🇳 V1-台湾99 Hinet直连 速度随缘 0.5x
+      - "🇨🇳 V1-新加坡 多台负载均衡 中继A 1.5x\t"
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继B 1.5x
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继C 1.5x
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继D 1.5x
+      - 🇨🇳 V1-新加坡 多台负载均衡 中继F 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继A 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继B 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继C 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继D 1.5x
+      - 🇨🇳 V1-日本 多台负载均衡 中继F 1.5x
+      - 🇨🇳 V2-台湾 多台负载均衡 中继E 1.5x
+      - 🇨🇳 V2-日本 多台负载均衡 中继E 1.5x
+      - 🇨🇳 V3-IEPL专线 台湾03 Hinet | 8x 原生IP
+      - 🇨🇳 iplc|广台-原生01|1.5x
+      - 🇨🇳 iplc|广台-原生02|1.5x
+      - 🇨🇳 iplc|广台-原生03|1.5x
+      - 🇨🇳 iplc|广台-原生04|1.5x
+      - 🇨🇳 iplc|广台-原生05|1.5x
+      - 🇨🇳 iplc|广台-原生06|1.5x
+      - 🇨🇳 iplc|广台-原生07|1.5x
+      - 🇨🇳 iplc|广台-原生08|1.5x
+      - 🇨🇳 iplc|广台-原生09|1.5x
+      - 🇨🇳 iplc|广台-原生10|1.5x
+      - 🇨🇳 vpnhat-台湾
+      - 🇨🇳 vpnhat-台湾 2
+      - 🇨🇳 vpnhat-台湾 3
+      - 🇨🇳 vpnhat-台湾 4
+      - 🇨🇳 vpnhat-台湾 5
+      - 🇨🇳 vpnhat-台湾 6
+      - 🇨🇳 vpnhat-台湾 7
+      - 🇨🇳 vpnhat-台湾 8
+      - 🇨🇳 vpnhat-台湾-iepl
+      - 🇨🇳 vpnhat-台湾-iepl 2
+      - 🇨🇳 vpnhat-台湾-iepl 3
+      - 🇨🇳 vpnpool-台湾
+      - 🇨🇳 中转|台湾-原生01
+      - 🇨🇳 中转|台湾-原生02
+      - 🇨🇳 中转|台湾-原生03
+      - 🇨🇳 中转|台湾-原生04
+      - 🇨🇳 中转|台湾-原生05
+      - 🇨🇳 中转|台湾-原生06
+      - 🇨🇳 中转|台湾-原生07
+      - 🇨🇳 中转|台湾-原生08
+      - 🇨🇳 中转|台湾-原生09
+      - 🇨🇳 中转|台湾-原生10
+      - 🇨🇳 动态BGP IPLC|台湾01(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾02(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾03(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾04(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾05(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾06(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾07(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾08(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾09(原生)|3x
+      - 🇨🇳 动态BGP IPLC|台湾10(原生)|3x
+      - 🇨🇳 台湾 IEPL 01 | Media
+      - 🇨🇳 台湾-01
+      - 🇨🇳 台湾-02
+      - 🇩🇪 Anycast|德国
+      - 🇩🇪 DE 1｜openit.ml
+      - 🇩🇪 K德国01|流媒体|V1|GZ
+      - 🇩🇪 V1-德国01 CDN 中继 1.5x
+      - 🇩🇪 V3-IEPL专线 德国01 7x
+      - 🇫🇷 Anycast|法国
+      - 🇫🇷 法国直连A CDN 速度随缘 0.3x
+      - 🇬🇧 Anycast|英国
+      - 🇬🇧 GB 1｜openit.ml
+      - 🇬🇧 GB 2｜openit.ml
+      - 🇬🇧 GB 3｜openit.ml
+      - 🇬🇧 GB 4｜openit.ml
+      - 🇬🇧 GB 5｜openit.ml
+      - 🇬🇧 K英国01|流媒体|V2|GZ
+      - 🇬🇧 V1-英国01 CDN 中继 1.5x
+      - 🇬🇧 V3-IEPL专线 英国01 | 8x
+      - 🇬🇧 vpnpool-GB
+      - 🇬🇧 vpnpool-GB 2
+      - 🇬🇧 英国 IEPL 01 | Media
+      - 🇭🇰 Anycast|香港
+      - 🇭🇰 A香港01|Netflix|V1|GZ
+      - 🇭🇰 A香港02|Netflix|V1|GZ
+      - 🇭🇰 A香港03|流媒体|V1|GZ
+      - 🇭🇰 A香港04|网页|V1|GZ
+      - 🇭🇰 A香港05|Twitter|V1|GZ
+      - 🇭🇰 EXTM3U-香港HKBN-dip
+      - 🇭🇰 EXTM3U-香港HKT
+      - 🇭🇰 EXTM3U-香港HKT 2
+      - 🇭🇰 EXTM3U-香港HKT-dip
+      - 🇭🇰 HK 10｜openit.ml
+      - 🇭🇰 HK 11｜openit.ml
+      - 🇭🇰 HK 12｜openit.ml
+      - 🇭🇰 HK 13｜openit.ml
+      - 🇭🇰 HK 14｜openit.ml
+      - 🇭🇰 HK 15｜openit.ml
+      - 🇭🇰 HK 16｜openit.ml
+      - 🇭🇰 HK 17｜openit.ml
+      - 🇭🇰 HK 18｜openit.ml
+      - 🇭🇰 HK 19｜openit.ml
+      - 🇭🇰 HK 1｜openit.ml
+      - 🇭🇰 HK 20｜openit.ml
+      - 🇭🇰 HK 21｜openit.ml
+      - 🇭🇰 HK 2｜openit.ml
+      - 🇭🇰 HK 3｜openit.ml
+      - 🇭🇰 HK 4｜openit.ml
+      - 🇭🇰 HK 5｜openit.ml
+      - 🇭🇰 HK 6｜openit.ml
+      - 🇭🇰 HK 7｜openit.ml
+      - 🇭🇰 HK 8｜openit.ml
+      - 🇭🇰 HK 9｜openit.ml
+      - 🇭🇰 HK PRO 11
+      - 🇭🇰 HK PRO 12
+      - 🇭🇰 HK PRO 13
+      - 🇭🇰 HK PRO 21 | Local
+      - 🇭🇰 HK PRO 22 | Local
+      - 🇭🇰 HK PRO 23 | Local
+      - 🇭🇰 HK PRO 31
+      - 🇭🇰 HK PRO 32
+      - 🇭🇰 HK PRO 51
+      - 🇭🇰 Standard|广港|IEPL|01
+      - 🇭🇰 Standard|广港|IEPL|02
+      - 🇭🇰 Standard|广港|IEPL|03
+      - 🇭🇰 Standard|广港|IEPL|04
+      - 🇭🇰 Standard|广港|IEPL|05
+      - 🇭🇰 Standard|广港|IEPL|06
+      - 🇭🇰 Standard|广港|IEPL|07
+      - 🇭🇰 Standard|广港|IEPL|08
+      - 🇭🇰 Standard|广港|IEPL|09
+      - 🇭🇰 Standard|广港|IEPL|10
+      - 🇭🇰 Standard|广港|IEPL|11
+      - 🇭🇰 Standard|广港|IEPL|12
+      - 🇭🇰 Standard|广港|IEPL|13
+      - 🇭🇰 Standard|广港|IEPL|14
+      - 🇭🇰 Standard|广港|IEPL|15
+      - 🇭🇰 Standard|广港|IEPL|16
+      - 🇭🇰 Standard|广港|IEPL|17
+      - 🇭🇰 Standard|广港|IEPL|18
+      - 🇭🇰 Standard|广港|IEPL|19
+      - 🇭🇰 Standard|广港|IEPL|20
+      - 🇭🇰 V1-香港 多台负载均衡 中继A | 1.5x
+      - 🇭🇰 V1-香港 多台负载均衡 中继B | 1.5x
+      - 🇭🇰 V1-香港 多台负载均衡 中继C | 1.5x
+      - 🇭🇰 V1-香港 多台负载均衡 中继D | 1.5x
+      - 🇭🇰 V1-香港HKT02 CDN 中继 2x
+      - 🇭🇰 V1-香港HKT03 CDN 中继 2x
+      - 🇭🇰 V2-香港 多台负载均衡 中继E | 1.5x
+      - 🇭🇰 V3-IEPL专线 香港FDC01 | 7x
+      - 🇭🇰 V3-IEPL专线 香港HGC01 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HGC02 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HGC03 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HKG01 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HKT01 | 8x 原生IP
+      - 🇭🇰 V3-IEPL专线 香港HKT04 | 8x 原生IP
+      - 🇭🇰 iplc|广港-原生01|1.5x
+      - 🇭🇰 iplc|广港-原生02|1.5x
+      - 🇭🇰 iplc|广港-原生03|1.5x
+      - 🇭🇰 iplc|广港-原生04|1.5x
+      - 🇭🇰 iplc|广港-原生05|1.5x
+      - 🇭🇰 iplc|广港01|1.5x
+      - 🇭🇰 iplc|广港02|1.5x
+      - 🇭🇰 iplc|广港03|1.5x
+      - 🇭🇰 iplc|广港04|1.5x
+      - 🇭🇰 iplc|广港05|1.5x
+      - 🇭🇰 vpnhat-香港
+      - 🇭🇰 vpnhat-香港 2
+      - 🇭🇰 vpnhat-香港 3
+      - 🇭🇰 vpnhat-香港 4
+      - 🇭🇰 vpnhat-香港 5
+      - 🇭🇰 vpnhat-香港 6
+      - 🇭🇰 vpnhat-香港 7
+      - 🇭🇰 vpnhat-香港 8
+      - 🇭🇰 vpnhat-香港 9
+      - 🇭🇰 vpnhat-香港-iepl
+      - 🇭🇰 vpnhat-香港-iepl 2
+      - 🇭🇰 vpnhat-香港-iepl 3
+      - 🇭🇰 vpnhat-香港-iepl 4
+      - 🇭🇰 vpnhat-香港-iepl 5
+      - 🇭🇰 vpnpool-香港
+      - 🇭🇰 vpnpool-香港 2
+      - 🇭🇰 vpnpool-香港 3
+      - 🇭🇰 中国香港A
+      - 🇭🇰 中国香港B
+      - 🇭🇰 中转|香港-原生01
+      - 🇭🇰 中转|香港-原生02
+      - 🇭🇰 中转|香港-原生03
+      - 🇭🇰 中转|香港-原生04
+      - 🇭🇰 中转|香港-原生05
+      - 🇭🇰 中转|香港01
+      - 🇭🇰 中转|香港02
+      - 🇭🇰 中转|香港03
+      - 🇭🇰 中转|香港04
+      - 🇭🇰 中转|香港05
+      - 🇭🇰 动态BGP IPLC|香港01(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港01|3x
+      - 🇭🇰 动态BGP IPLC|香港02(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港02|3x
+      - 🇭🇰 动态BGP IPLC|香港03(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港03|3x
+      - 🇭🇰 动态BGP IPLC|香港04(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港04|3x
+      - 🇭🇰 动态BGP IPLC|香港05(原生)|3x
+      - 🇭🇰 动态BGP IPLC|香港05|3x
+      - 🇭🇰 福利|香港01|0.1x|限速10Mbps
+      - 🇭🇰 香港 01 | 广港 IEPL
+      - 🇭🇰 香港 01 | 直连
+      - 🇭🇰 香港 02 | 广港 IEPL
+      - 🇭🇰 香港 02 | 直连
+      - 🇭🇰 香港 03 | 广港 IEPL
+      - 🇭🇰 香港 04 | 广港 IEPL
+      - 🇭🇰 香港 05 | 广港 IEPL
+      - 🇭🇰 香港 IEPL 11
+      - 🇭🇰 香港 IEPL 12
+      - 🇭🇰 香港 IEPL 21 | Full Local
+      - 🇭🇰 香港 IEPL 51
+      - 🇭🇰 香港-深圳专线 IPLC 01 | 限速仅限游戏 | 倍率 8x
+      - 🇭🇰 香港IPLC-倍率10x
+      - 🇭🇰 香港dmit-01
+      - 🇭🇰 香港dmit-02
+      - 🇭🇰 香港misaka-01
+      - 🇭🇰 香港misaka-02
+      - 🇮🇳 Anycast|印度
+      - 🇮🇳 IN PRO 01
+      - 🇮🇳 K印度01|流媒体|V1|GZ
+      - 🇮🇳 V2-印度01 中继A | 1.5x
+      - 🇮🇳 V2-印度01 中继B | 1.5x
+      - 🇮🇳 V2-印度01 中继C | 1.5x
+      - 🇮🇳 V2-印度01 中继D | 1.5x
+      - 🇮🇳 V2-印度01 中继E | 1.5x
+      - 🇯🇵 Anycast|日本
+      - 🇯🇵 G日本01|Netflix|V1|GZ
+      - 🇯🇵 G日本02|流媒体|V1|GZ
+      - 🇯🇵 G日本03|Youtube|V1|GZ
+      - 🇯🇵 G日本04|Abmate|V1|GZ
+      - 🇯🇵 JP PRO 01
+      - 🇯🇵 JP PRO 02
+      - 🇯🇵 JP PRO 21 | Media
+      - 🇯🇵 JP PRO 31 | Local
+      - 🇯🇵 Standard|广日|IEPL|01
+      - 🇯🇵 Standard|广日|IEPL|02
+      - 🇯🇵 Standard|广日|IEPL|03
+      - 🇯🇵 Standard|广日|IEPL|04
+      - 🇯🇵 Standard|广日|IEPL|05
+      - 🇯🇵 Standard|广日|IEPL|06
+      - 🇯🇵 Standard|广日|IEPL|07
+      - 🇯🇵 Standard|广日|IEPL|08
+      - 🇯🇵 V2-日本03 CDN 中继 1.5x
+      - 🇯🇵 V3-IEPL专线 日本04 | 8x
+      - 🇯🇵 iplc|广日-原生01|1.5x
+      - 🇯🇵 iplc|广日-原生02|1.5x
+      - 🇯🇵 iplc|广日-原生03|1.5x
+      - 🇯🇵 iplc|广日-原生04|1.5x
+      - 🇯🇵 iplc|广日-原生05|1.5x
+      - 🇯🇵 iplc|广日01|1.5x
+      - 🇯🇵 iplc|广日02|1.5x
+      - 🇯🇵 vpnhat-JP
+      - 🇯🇵 vpnhat-JP 2
+      - 🇯🇵 vpnhat-JP 3
+      - 🇯🇵 vpnhat-JP 4
+      - 🇯🇵 vpnhat-JP 5
+      - 🇯🇵 vpnhat-JP 6
+      - 🇯🇵 vpnhat-JP 7
+      - 🇯🇵 vpnhat-JP-iepl
+      - 🇯🇵 vpnpool-JP
+      - 🇯🇵 vpnpool-JP 2
+      - 🇯🇵 中转|日本01
+      - 🇯🇵 中转|日本02
+      - 🇯🇵 中转|日本03
+      - 🇯🇵 中转|日本04
+      - 🇯🇵 中转|日本05
+      - 🇯🇵 动态BGP IPLC|日本01(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本02(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本03(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本04(原生)|3x
+      - 🇯🇵 动态BGP IPLC|日本05(原生)|3x
+      - 🇯🇵 日本 01 | 沪日IEPL
+      - 🇯🇵 日本 01 | 直连
+      - 🇯🇵 日本 02 | 沪日IEPL
+      - 🇯🇵 日本 02 | 直连
+      - 🇯🇵 日本 03 | 沪日IEPL
+      - 🇯🇵 日本 03 | 直连
+      - 🇯🇵 日本 04 | 沪日IEPL
+      - 🇯🇵 日本 04 | 直连
+      - 🇯🇵 日本 05 | 沪日IEPL
+      - 🇯🇵 日本 IEPL 01
+      - 🇯🇵 日本 IEPL 21 | Local
+      - 🇯🇵 日本 IEPL 31 | Local
+      - 🇯🇵 日本A
+      - 🇯🇵 日本B
+      - 🇯🇵 日本misaka-01
+      - 🇯🇵 日本misaka-02
+      - "🇯🇵 日本直连A CDN 速度随缘 0.3x\t"
+      - 🇯🇵 福利|日本|0.1x|限速10Mbps
+      - 🇰🇷 Anycast|韩国
+      - 🇰🇷 H韩国01|流媒体|V1|GZ
+      - 🇰🇷 V1-韩国01 中继A | x1.5
+      - 🇰🇷 V1-韩国01 中继B | x1.5
+      - 🇰🇷 V1-韩国01 中继C | x1.5
+      - 🇰🇷 V1-韩国01 中继D | x1.5
+      - 🇰🇷 V2-韩国01 中继E | x1.5
+      - 🇰🇷 V3-IEPL专线 韩国02 | 8x
+      - 🇰🇷 vpnhat-KR
+      - 🇰🇷 vpnhat-KR 2
+      - 🇰🇷 vpnpool-KR
+      - 🇰🇷 vpnpool-KR 2
+      - 🇰🇷 中转|韩国01
+      - 🇰🇷 中转|韩国02
+      - 🇰🇷 中转|韩国03
+      - 🇰🇷 韩国 IEPL 01 | Local
+      - 🇰🇷 韩国A
+      - 🇰🇷 韩国B
+      - 🇰🇷 韩国直连A CDN 速度随缘 0.3x
+      - 🇲🇾 MY Pro 01 | Local
+      - 🇲🇾 MY Pro 02 | Local
+      - 🇲🇾 V3-IEPL专线 马来西亚01 | 8x 原生IP
+      - 🇲🇾 V3-IEPL专线 马来西亚02 | 8x 原生IP
+      - 🇲🇾 马来西亚 IEPL 01 | Local
+      - 🇳🇱 Anycast|荷兰
+      - 🇳🇱 V2-荷兰01 CDN 中继 | 1.3x
+      - 🇵🇰 V3-IEPL专线 巴基斯坦 冷门 限速20m | 15x
+      - 🇵🇱 V2-波兰01 CDN 中继 | x1.5
+      - 🇷🇺 Anycast|俄罗斯
+      - 🇷🇺 K俄罗斯01|流媒体|V1|GZ
+      - 🇷🇺 RU 1｜openit.ml
+      - 🇷🇺 RU 2｜openit.ml
+      - 🇷🇺 RU 3｜openit.ml
+      - 🇷🇺 RU 4｜openit.ml
+      - 🇷🇺 V1-俄罗斯01 中继A | x1.2
+      - 🇷🇺 V1-俄罗斯01 中继B | x1.2
+      - 🇷🇺 V1-俄罗斯01 中继C | x1.2
+      - 🇷🇺 V1-俄罗斯01 中继D | x1.2
+      - 🇷🇺 V2-俄罗斯01 中继E | x1.2
+      - 🇷🇺 V3-IEPL专线 俄罗斯02 | 8x
+      - 🇷🇺 vpnpool-RU
+      - 🇸🇬 Anycast|新加坡
+      - 🇸🇬 F新加坡01|Youtube|V1|GZ
+      - 🇸🇬 F新加坡02|Netflix|V1|GZ
+      - 🇸🇬 G新加坡01|流媒体|V2|GZ
+      - 🇸🇬 G新加坡02|Netflix|V2|GZ
+      - 🇸🇬 SG 1｜openit.ml
+      - 🇸🇬 SG 2｜openit.ml
+      - 🇸🇬 SG 3｜openit.ml
+      - 🇸🇬 SG 4｜openit.ml
+      - 🇸🇬 SG 5｜openit.ml
+      - 🇸🇬 SG PRO 01
+      - 🇸🇬 SG PRO 02 | Media
+      - 🇸🇬 SG PRO 51 | Media
+      - 🇸🇬 Standard|广新|IEPL|01
+      - 🇸🇬 Standard|广新|IEPL|02
+      - 🇸🇬 Standard|广新|IEPL|03
+      - 🇸🇬 Standard|广新|IEPL|04
+      - 🇸🇬 Standard|广新|IEPL|05
+      - 🇸🇬 Standard|广新|IEPL|06
+      - 🇸🇬 Standard|广新|IEPL|07
+      - 🇸🇬 Standard|广新|IEPL|08
+      - 🇸🇬 V3-IEPL专线 新加坡03 | 8x
+      - 🇸🇬 V3-IEPL专线 新加坡05 | 8x 原生IP
+      - 🇸🇬 iplc|广新-原生01|1.5x
+      - 🇸🇬 iplc|广新-原生02|1.5x
+      - 🇸🇬 iplc|广新-原生03|1.5x
+      - 🇸🇬 iplc|广新01|1.5x
+      - 🇸🇬 iplc|广新02|1.5x
+      - 🇸🇬 vpnhat-SG
+      - 🇸🇬 vpnhat-SG 2
+      - 🇸🇬 vpnhat-SG 3
+      - 🇸🇬 vpnhat-SG 4
+      - 🇸🇬 vpnhat-SG-iepl
+      - 🇸🇬 vpnpool-SG
+      - 🇸🇬 vpnpool-SG 2
+      - 🇸🇬 中转|新加坡01
+      - 🇸🇬 中转|新加坡02
+      - 🇸🇬 中转|新加坡03
+      - 🇸🇬 动态BGP IPLC|新加坡01(原生)|3x
+      - 🇸🇬 动态BGP IPLC|新加坡02(原生)|3x
+      - 🇸🇬 动态BGP IPLC|新加坡03(原生)|3x
+      - 🇸🇬 新加坡 01 | 广新 IEPL
+      - 🇸🇬 新加坡 02 | 广新 IEPL
+      - 🇸🇬 新加坡 IEPL 01
+      - 🇸🇬 新加坡 IEPL 02 | Media
+      - 🇸🇬 新加坡 IEPL 51 | Media
+      - 🇸🇬 新加坡A
+      - 🇸🇬 新加坡B
+      - 🇸🇬 新加坡misaka-01
+      - 🇸🇬 新加坡misaka-02
+      - 🇸🇬 新加坡misaka-03
+      - 🇸🇬 无法使用请刷新订阅，邀请60%返利
+      - 🇸🇬 福利|新加坡|0.1x|限速10Mbps
+      - 🇹🇭 Anycast|泰国
+      - 🇹🇷 Anycast|土耳其
+      - 🇹🇷 V2-土耳其01 中继A | 2x
+      - 🇹🇷 V2-土耳其01 中继B | 2x
+      - 🇹🇷 V2-土耳其01 中继C | 2x
+      - 🇹🇷 V2-土耳其01 中继D | 2x
+      - 🇹🇷 V2-土耳其01 中继E | 2x
+      - 🇺🇸 Anycast|美国
+      - 🇺🇸 I美国01|Netflix|洛杉矶|V1|GZ
+      - 🇺🇸 I美国01|登录|网页|洛杉矶|10x|V2|GZ
+      - 🇺🇸 I美国02|Disney|西雅图|V2|GZ
+      - 🇺🇸 I美国02|Tiktok|洛杉矶|V1|GZ
+      - 🇺🇸 I美国03|Tik Tok旧金山|V2|GZ
+      - 🇺🇸 I美国03|芝加哥|V1|GZ
+      - 🇺🇸 I美国04|Tik Tok|犹他州|V1|GZ
+      - 🇺🇸 Standard|广美|IEPL|01
+      - 🇺🇸 Standard|广美|IEPL|02
+      - 🇺🇸 Standard|广美|IEPL|03
+      - 🇺🇸 Standard|广美|IEPL|04
+      - 🇺🇸 Standard|广美|IEPL|05
+      - 🇺🇸 Standard|广美|IEPL|06
+      - 🇺🇸 Standard|广美|IEPL|07
+      - 🇺🇸 Standard|广美|IEPL|08
+      - 🇺🇸 US 10｜openit.ml
+      - 🇺🇸 US 11｜openit.ml
+      - 🇺🇸 US 12｜openit.ml
+      - 🇺🇸 US 13｜openit.ml
+      - 🇺🇸 US 14｜openit.ml
+      - 🇺🇸 US 15｜openit.ml
+      - 🇺🇸 US 16｜openit.ml
+      - 🇺🇸 US 17｜openit.ml
+      - 🇺🇸 US 18｜openit.ml
+      - 🇺🇸 US 19｜openit.ml
+      - 🇺🇸 US 1｜openit.ml
+      - 🇺🇸 US 20｜openit.ml
+      - 🇺🇸 US 21｜openit.ml
+      - 🇺🇸 US 22｜openit.ml
+      - 🇺🇸 US 23｜openit.ml
+      - 🇺🇸 US 24｜openit.ml
+      - 🇺🇸 US 25｜openit.ml
+      - 🇺🇸 US 26｜openit.ml
+      - 🇺🇸 US 27｜openit.ml
+      - 🇺🇸 US 28｜openit.ml
+      - 🇺🇸 US 29｜openit.ml
+      - 🇺🇸 US 2｜openit.ml
+      - 🇺🇸 US 30｜openit.ml
+      - 🇺🇸 US 31｜openit.ml
+      - 🇺🇸 US 32｜openit.ml
+      - 🇺🇸 US 33｜openit.ml
+      - 🇺🇸 US 34｜openit.ml
+      - 🇺🇸 US 35｜openit.ml
+      - 🇺🇸 US 36｜openit.ml
+      - 🇺🇸 US 37｜openit.ml
+      - 🇺🇸 US 3｜openit.ml
+      - 🇺🇸 US 4｜openit.ml
+      - 🇺🇸 US 5｜openit.ml
+      - 🇺🇸 US 6｜openit.ml
+      - 🇺🇸 US 7｜openit.ml
+      - 🇺🇸 US 8｜openit.ml
+      - 🇺🇸 US 9｜openit.ml
+      - 🇺🇸 US PRO 01
+      - 🇺🇸 US PRO 02
+      - 🇺🇸 US PRO 03
+      - 🇺🇸 US PRO 04
+      - 🇺🇸 V1-美国01 中继A | 1.5x
+      - 🇺🇸 V1-美国01 中继B | 1.5x
+      - 🇺🇸 V1-美国01 中继C | 1.5x
+      - 🇺🇸 V1-美国01 中继D | 1.5x
+      - 🇺🇸 V2-美国01 中继E | 1.5x
+      - 🇺🇸 V2-美国03 中继A |  1.5x
+      - 🇺🇸 V2-美国03 中继B |  1.5x
+      - 🇺🇸 V2-美国03 中继C | 1.5x
+      - 🇺🇸 V2-美国03 中继D | 1.5x
+      - 🇺🇸 V2-美国03 中继E |  1.5x
+      - 🇺🇸 V3-IEPL专线 美国02 | 8x
+      - 🇺🇸 iplc|广美-原生01|1.5x
+      - 🇺🇸 iplc|广美-原生02|1.5x
+      - 🇺🇸 iplc|广美-原生03|1.5x
+      - 🇺🇸 iplc|广美-原生04|1.5x
+      - 🇺🇸 iplc|广美-原生05|1.5x
+      - 🇺🇸 vpnhat-US
+      - 🇺🇸 vpnhat-US 2
+      - 🇺🇸 vpnhat-US 3
+      - 🇺🇸 vpnhat-US 4
+      - 🇺🇸 vpnhat-US 5
+      - 🇺🇸 vpnhat-US 6
+      - 🇺🇸 vpnhat-US-iepl
+      - 🇺🇸 vpnhat-US-iepl 2
+      - 🇺🇸 vpnhat-US-iepl 3
+      - 🇺🇸 vpnpool-US
+      - 🇺🇸 vpnpool-US 2
+      - 🇺🇸 中转|美国01
+      - 🇺🇸 中转|美国02
+      - 🇺🇸 中转|美国03
+      - 🇺🇸 中转|美国04
+      - 🇺🇸 中转|美国05
+      - 🇺🇸 动态BGP IPLC|美国01(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国02(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国03(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国04(原生)|3x
+      - 🇺🇸 动态BGP IPLC|美国05(原生)|3x
+      - 🇺🇸 福利|美国|0.1x|限速10Mbps
+      - 🇺🇸 美国 01 | 直连
+      - 🇺🇸 美国 02 | 直连
+      - 🇺🇸 美国 IEPL 01
+      - 🇺🇸 美国 IEPL 02
+      - 🇺🇸 美国 IEPL 03
+      - 🇺🇸 美国 IEPL 04
+      - 🇺🇸 美国大陆优化4837-01
+      - 🇺🇸 美国大陆优化4837-02
+      - 🏳️‍🌈 下载专用|0.8x|支持大流量
+      - 🏳️‍🌈 加群 @yyjc_group 签到送流量
+  - name: 💡 Auto
+    type: url-test
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
       - AA↑↑以上线路和我不可用↑↑
       - AZHK白嫖节点丨0.1x
       - CZ 1｜openit.ml
