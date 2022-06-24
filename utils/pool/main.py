@@ -45,7 +45,7 @@ if __name__ == '__main__':
         except KeyError:
             print("Error: changfengoos/pub库里没有Clash配置文件可以嫖")
         else:
-            print(str(tfiles) + "Success: changfengoos/pub库里有Clash配置文件可以嫖")
+            print("Success: changfengoos/pub库里有" + str(tfiles) + "个Clash配置文件可以嫖")
 
         processes=[]
         try:
