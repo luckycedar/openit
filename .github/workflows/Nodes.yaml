@@ -71,10 +71,11 @@ jobs:
     - name: Timezone #UTC+0 → UTC+8
       run: sudo timedatectl set-timezone 'Asia/Shanghai'
     - name: init
-      run: | #配置git上传用户名和邮箱
+      run: | #配置git上传用户名、邮箱和安装npm包
          git config pull.rebase false
          git config --local user.name "GitHub Actions"
          git config --local user.email "actions@github.com"
+         npm ci --cache .npm --quiet --no-progress #npm install input./utils/rm/package-lock.json
     - name: subconverter #input./utils/clashcheck/check.yaml
       run: ./utils/subconverter/subconverter -g --artifact "rm" #output./utils/subconverter/rm1
     - name: Remove & Remark
@@ -83,7 +84,6 @@ jobs:
          cd ./utils/rm/
          #input./utils/rm/rm1
          base64 -d rm1 > rm2 #output./utils/rm/rm2
-         npm ci #npm install input./utils/rm/package-lock.json
          #input./utils/rm/rm2
          npm start #output./utils/rm/out
     - name: url & https & check
